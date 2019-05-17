@@ -3,7 +3,7 @@ from django.db import models
 from django.contrib.auth import get_user_model
 from schedules.models import Schedule
 import datetime
-print(datetime)
+
 
 # Create your models here.
 
